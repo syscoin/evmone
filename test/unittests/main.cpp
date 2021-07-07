@@ -147,8 +147,8 @@ int main(int argc, char* argv[])
         auto cli = cli_parser{"EVM Test", PROJECT_VERSION,
             "Testing tool for EVMC-compatible Ethereum Virtual Machine implementations.\n"
             "Powered by the evmone project.\n\n"
-            "EVMC:   https://github.com/ethereum/evmc\n"
-            "evmone: https://github.com/ethereum/evmone",
+            "EVMC:   https://github.com/syscoin/evmc\n"
+            "evmone: https://github.com/syscoin/evmone",
             {"MODULE"}};
         cli.set_preprocessor(testing::InitGoogleTest);
 

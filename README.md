@@ -66,7 +66,7 @@ To build the evmone EVMC module (shared library), test, and benchmark:
 
 1. Fetch the source code:
    ```
-   git clone --recursive https://github.com/ethereum/evmone
+   git clone --recursive https://github.com/syscoin/evmone
    cd evmone
    ```
 
@@ -139,11 +139,11 @@ Licensed under the [Apache License, Version 2.0].
 [codecov]: https://codecov.io/gh/ethereum/evmone/
 [Apache License, Version 2.0]: LICENSE
 [ethereum]: https://ethereum.org
-[EVMC]: https://github.com/ethereum/evmc
+[EVMC]: https://github.com/syscoin/evmc
 [Ewasm]: https://github.com/ewasm
 [intx]: https://github.com/chfast/intx
 [ethash]: https://github.com/chfast/ethash
-[Releases]: https://github.com/ethereum/evmone/releases
+[Releases]: https://github.com/syscoin/evmone/releases
 [standard readme]: https://github.com/RichardLitt/standard-readme
 
 [appveyor badge]: https://img.shields.io/appveyor/ci/chfast/evmone/master.svg?logo=appveyor
